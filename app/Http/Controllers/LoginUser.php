@@ -75,7 +75,7 @@ class LoginUser extends Controller
 	public function logoutAdmin(Request $request)
 	{
 		/*
-			Logout for Author and Author if They login into Account Panel
+			Logout for Admin and Author if They login into Account Panel
 		*/
 	}
 	
